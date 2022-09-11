@@ -118,7 +118,7 @@ index 6e5c197d..cf7ef042 100644
  
      <build>
 -        <finalName>BungeeCord</finalName>
-+        <finalName>Waterfall</finalName>
++        <finalName>Lavafall</finalName>
          <plugins>
              <plugin>
                  <groupId>org.apache.maven.plugins</groupId>
